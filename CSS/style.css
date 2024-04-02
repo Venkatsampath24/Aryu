@@ -1,0 +1,50 @@
+.aryu-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; /* Add padding as needed */
+    background-color: black;
+    color: white;
+  }
+  
+  .aryu-logo img {
+    width: 20rem; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    color: white;
+  }
+  
+  .Nav-bar {
+    display: flex;
+    align-items: center;
+    gap: 30px; /* Add gap between navigation items */
+    font-size: 0.7rem;
+    font-weight: normal;
+    color:white;
+    text-decoration: none;
+    
+  }
+  
+  .Nav-bar h1 {
+    margin: 0;
+  }
+  
+
+  button {
+    height: 3.5rem;
+    width: 10rem;
+    border-radius: 1.6rem;
+    color: rgb(17, 170, 231);
+    font-size: 1.2rem;
+    background-color: rgb(29, 27, 27);
+    border-color: rgb(15, 165, 224);
+  }
+
+  .Nav-bar h1:hover{
+    color: rgb(10, 125, 170);
+  }
+  
+  .nav-link{
+    text-decoration: none;
+    color: white;
+    font-size: 0.65rem;
+  }

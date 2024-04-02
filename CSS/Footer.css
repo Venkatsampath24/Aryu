@@ -1,0 +1,34 @@
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:4rem;
+    background-color:rgb(6, 44, 59);
+    color: white;
+    font-weight: normal;
+    font-size: 0.8rem;
+    
+}
+
+.links .aryu-logo{
+    height: 10rem;
+    width: 15rem;
+    display:flex;
+    justify-content: center;
+    margin-top: 2.4rem;
+}
+
+.footer-last {
+    display: inline-block;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(6, 44, 59) ;
+    padding-left: 50rem;
+    color: white;
+
+}
+
+.contact-details input{
+    margin-right: 1.5rem;
+}
